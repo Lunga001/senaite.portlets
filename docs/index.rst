@@ -1,0 +1,5 @@
+====================
+senaite.portlets
+====================
+
+User documentation
